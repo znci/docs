@@ -1,0 +1,5 @@
+NAME="docs"
+DESCRIPTION="Public documentation for znci's projects"
+PRIVATE=0
+
+INTERNAL_VERSION=1
