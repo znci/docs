@@ -9,7 +9,7 @@ const config = {
   title: 'znci docs',
   tagline: 'znci is a team of developers who want to make the web just a little bit better.',
   url: 'https://docs.znci.dev',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
