@@ -9,11 +9,12 @@ const config = {
   title: 'znci docs',
   tagline: 'znci is a team of developers who want to make the web just a little bit better.',
   url: 'https://docs.znci.dev',
-  baseUrl: '/docs/',
+  routeBasePath: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
+  blog: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
